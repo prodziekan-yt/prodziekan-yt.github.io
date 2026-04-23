@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mój pierwszy film: Jak postawić tę stronę!"
+title: "Wstępniak!"
 date: 2026-04-23 12:00:00 +0200
 ---
 
