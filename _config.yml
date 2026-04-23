@@ -1,0 +1,7 @@
+remote_theme: b2a3e8/jekyll-theme-console
+title: Prodziekan
+baseurl: "/web"
+url: "https://prodziekan-yt.github.io"
+
+plugins:
+  - jekyll-remote-theme
