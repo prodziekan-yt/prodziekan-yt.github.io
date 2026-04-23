@@ -4,9 +4,10 @@ title: "Wstępniak"
 date: 2026-04-23 12:00:00 +0200
 ---
 
-# Trzeba się ruszyć
-Naszła mnie ta wewnętrzna chęć by jeszcze raz się w to zabawić. Ponad 10 lat przerwy od kiedy skręciłem cokolwiek i wrzuciłem na YT to chyba dobry odpoczynek.
-Technologia poszła do przodu, nikt już nie używa SonyVegas, 1080p już na nikim nie robi wrażenia. Technologia poszła do przodu więc jest co nadrabiać.
+# Uczyć się chodzić na nowo
+Naszła mnie ta wewnętrzna chęć by jeszcze raz się w to zabawić.
+Ponad 10 lat przerwy od kiedy skręciłem cokolwiek i wrzuciłem na YT to chyba dobry odpoczynek.
+Jest co nadrabiać.
 Teraz można zaczynać od nowa.
 
 ### Kanał:
