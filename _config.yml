@@ -3,8 +3,8 @@ description: "Technologia poszła do przodu - jest co nadrabiać."
 url: "https://prodziekan-yt.github.io"
 baseurl: ""
 remote_theme: "b2a3e8/jekyll-theme-console"
-style: dark           # Wymusza ciemny motyw (dark mode)
-lang: pl              # Język strony
+style: dark
+lang: pl
 header_pages:
   - index.md
   - blog.md
